@@ -1,4 +1,4 @@
-# Windows-Timer
+# Timer
 
 ## Planned Features
-- Timer desktop app within Windows
+- Timer app within Android
